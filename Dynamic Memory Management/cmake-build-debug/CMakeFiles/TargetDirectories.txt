@@ -1,0 +1,3 @@
+/home/cam/CLionProjects/Dynamic Memory Management/cmake-build-debug/CMakeFiles/Dynamic_Memory_Management.dir
+/home/cam/CLionProjects/Dynamic Memory Management/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cam/CLionProjects/Dynamic Memory Management/cmake-build-debug/CMakeFiles/rebuild_cache.dir

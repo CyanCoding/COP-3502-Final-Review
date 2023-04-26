@@ -1,0 +1,3 @@
+/home/cam/CLionProjects/COP 3502 Final Review/Tries/cmake-build-debug/CMakeFiles/Tries.dir
+/home/cam/CLionProjects/COP 3502 Final Review/Tries/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cam/CLionProjects/COP 3502 Final Review/Tries/cmake-build-debug/CMakeFiles/rebuild_cache.dir
