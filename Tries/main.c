@@ -46,12 +46,12 @@ int search(trie *root, char *key) {
     trie *current = root;
 
     for (int i = 0; i < length; i++) {
-        int j = ((int)key[i]) - ((int)'a');
+        int char_int = ((int)key[i]) - ((int)'a');
 
-        if (!current->children[j])
+        if (!current->children[char_int])
             return count;
         count++;
-        current = current->children[j];
+        current = current->children[char_int];
     }
     return count;
 }
